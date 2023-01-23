@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.images {
+	border-radius: 25px;
+	width: 350px;
+	height: 200px;
+}
+
+.youtubeMusic {
+	margin: 20px;
+	display: inline-block;
+}
+
+.youtube {
+	text-align: center;
+}
